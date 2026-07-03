@@ -1,0 +1,6 @@
+{
+  "name": "New Milan Dresses",
+  "description": "Clothing store in Bokaro Steel City offering ethnic, western wear and school uniforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
